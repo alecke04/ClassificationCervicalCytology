@@ -1,0 +1,36 @@
+# Core ML Framework (Python 3.12 compatible)
+torch==2.10.0
+torchvision==0.25.0
+timm==1.0.20
+
+# Data & Preprocessing
+numpy==1.26.4
+pandas==2.2.3
+albumentations==1.4.24
+Pillow==11.1.0
+opencv-python==4.11.0.86
+
+# Metrics & Evaluation
+scikit-learn==1.6.1
+scipy==1.15.2
+
+# Visualization
+matplotlib==3.10.1
+seaborn==0.13.2
+
+# Interpretability
+grad-cam==1.5.4
+
+# Jupyter & Notebooks
+jupyter==1.1.1
+ipython==8.32.0
+
+# Utilities & Reproducibility
+tqdm==4.67.1
+pyyaml==6.0.2
+
+# Synapse (data download)
+synapseclient==4.8.0
+
+# Development
+python-dotenv==1.0.1
