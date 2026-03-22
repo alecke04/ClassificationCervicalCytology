@@ -286,24 +286,11 @@ Nevertheless, attention distributions remain concentrated on cellular regions ra
 
 **Grad-CAM Visualization Examples:**
 
-<div style="page-break-inside: avoid; break-inside: avoid;">
+![ResNet50 Grad-CAM](../results/resnet50_bs16/grad_cam/sample_01_true_HSIL_pred_HSIL.png)
 
-<center>
-<img src="../results/resnet50_bs16/grad_cam/sample_01_true_HSIL_pred_HSIL.png" width="400" />
-<br/>ResNet50 Grad-CAM Example
-</center>
+![EfficientNet-B0 Grad-CAM](../results/efficientnet_b16/grad_cam/sample_01_true_HSIL_pred_HSIL.png)
 
-<center>
-<img src="../results/efficientnet_b16/grad_cam/sample_01_true_HSIL_pred_HSIL.png" width="400" />
-<br/>EfficientNet-B0 Grad-CAM Example
-</center>
-
-<center>
-<img src="../results/swin_b16/grad_cam/sample_01_true_HSIL_pred_HSIL.png" width="400" />
-<br/>Swin Tiny Grad-CAM Example
-</center>
-
-</div>
+![Swin Tiny Grad-CAM](../results/swin_b16/grad_cam/sample_01_true_HSIL_pred_HSIL.png)
 
 ---
 
@@ -507,7 +494,7 @@ HSIL        0     2    28
 
 ---
 
-**End of Report**
+
 
 </div>
 
