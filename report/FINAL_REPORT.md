@@ -1,7 +1,6 @@
 # Deep Learning Classification of Cervical Cytology Images: Multi-Model Analysis and Transformer-Based Architecture Evaluation
 
 **Author:** Alec Brenes
-
 **Date:** March 21, 2026  
 **Dataset:** Brown Multicellular ThinPrep (BMT) Database  
 **Submission For:** Take-Home Exam - AI Models for Cancer Detection
